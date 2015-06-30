@@ -14,6 +14,8 @@
 		D60A7D671B42E6DD00989AC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D60A7D661B42E6DD00989AC3 /* Images.xcassets */; };
 		D60A7D6A1B42E6DD00989AC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D60A7D681B42E6DD00989AC3 /* LaunchScreen.xib */; };
 		D60A7D761B42E6DD00989AC3 /* SwipeOutTrayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D60A7D751B42E6DD00989AC3 /* SwipeOutTrayTests.m */; };
+		D60A7D801B42E7FC00989AC3 /* mabel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D60A7D7F1B42E7FC00989AC3 /* mabel.jpg */; };
+		D60A7D821B42ECA500989AC3 /* yik yak image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D60A7D811B42ECA500989AC3 /* yik yak image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		D60A7D6F1B42E6DD00989AC3 /* SwipeOutTrayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwipeOutTrayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D60A7D741B42E6DD00989AC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D60A7D751B42E6DD00989AC3 /* SwipeOutTrayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwipeOutTrayTests.m; sourceTree = "<group>"; };
+		D60A7D7F1B42E7FC00989AC3 /* mabel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mabel.jpg; sourceTree = "<group>"; };
+		D60A7D811B42ECA500989AC3 /* yik yak image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yik yak image.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,7 @@
 		D60A7D581B42E6DD00989AC3 /* SwipeOutTray */ = {
 			isa = PBXGroup;
 			children = (
+				D60A7D811B42ECA500989AC3 /* yik yak image.jpg */,
 				D60A7D5D1B42E6DD00989AC3 /* AppDelegate.h */,
 				D60A7D5E1B42E6DD00989AC3 /* AppDelegate.m */,
 				D60A7D601B42E6DD00989AC3 /* ViewController.h */,
@@ -88,6 +93,7 @@
 				D60A7D631B42E6DD00989AC3 /* Main.storyboard */,
 				D60A7D661B42E6DD00989AC3 /* Images.xcassets */,
 				D60A7D681B42E6DD00989AC3 /* LaunchScreen.xib */,
+				D60A7D7F1B42E7FC00989AC3 /* mabel.jpg */,
 				D60A7D591B42E6DD00989AC3 /* Supporting Files */,
 			);
 			path = SwipeOutTray;
@@ -200,7 +206,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D60A7D651B42E6DD00989AC3 /* Main.storyboard in Resources */,
+				D60A7D801B42E7FC00989AC3 /* mabel.jpg in Resources */,
 				D60A7D6A1B42E6DD00989AC3 /* LaunchScreen.xib in Resources */,
+				D60A7D821B42ECA500989AC3 /* yik yak image.jpg in Resources */,
 				D60A7D671B42E6DD00989AC3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
